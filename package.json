@@ -1,0 +1,23 @@
+{
+  "name": "playwright-e2e_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Harsha-770/Playwright_TS_framework_practise.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Harsha-770/Playwright_TS_framework_practise/issues"
+  },
+  "homepage": "https://github.com/Harsha-770/Playwright_TS_framework_practise#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "@types/node": "^25.3.0"
+  }
+}
